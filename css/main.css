@@ -504,7 +504,7 @@ Recipes
   .recipe h5 {
     font-size: 1.15rem;
   }
-  .recipe-list {
+  .recipes-list {
     grid-template-columns: 1fr 1fr 1fr;
   }
 }
