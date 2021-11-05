@@ -709,6 +709,22 @@ Single Recipe Page
   height: 2px;
   background: var(--grey-300);
 }
+
+.second-column {
+  display: grid;
+  row-gap: 2rem;
+}
+.single-ingredient {
+  border-bottom: 2px solid var(--grey-300);
+  padding-bottom: 0.75rem;
+  color: var(--grey-700);
+}
+.single-tool {
+  border-bottom: 2px solid var(--grey-300);
+  padding-bottom: 0.75rem;
+  color: var(--primary-500);
+  text-transform: capitalize;
+}
 /*
 =============== 
 
